@@ -6,5 +6,8 @@ This is a live clock that syncs automatically to the client or users time  zone.
 
 
 
-https://user-images.githubusercontent.com/97313664/191188852-a685ab34-469d-406e-aba3-c7abf274f886.mp4
+ 
+
+
+https://user-images.githubusercontent.com/97313664/191189260-371b571d-9802-4e7b-8304-d6d912a39e9b.mp4
 
